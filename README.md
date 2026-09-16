@@ -55,7 +55,6 @@ Built a single-page, interactive Power BI dashboard that consolidates attrition 
 Data Analyst | Power BI Developer
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/soumyadipdhara1/
-- 📧 Email: dips65781@gmail.com
 
 ---
 ⭐ If you found this project useful, consider giving it a star!
